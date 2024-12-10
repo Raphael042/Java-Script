@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: darkslategrey;
+}
+.placar{
+    width: 100%;
+    text-align: center;
+    max-width: 500px;
+    background-color: darkcyan;
+    margin: auto;
+    padding: 20px;
+    
+}
+#Pontos{
+    font-weight: bold;
+    font-size: 24px;
+    color: #333;
+}
